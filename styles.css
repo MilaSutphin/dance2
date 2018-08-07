@@ -1,0 +1,52 @@
+.song-title {
+  font-size: 25px;
+  font-weight: bold
+}
+
+.main-title {
+  font-size: 50px;
+}
+
+.pg2 {
+  font-size: 40px;
+}
+
+.song-1 {
+  border-radius: 50%;
+}
+
+.traingle{
+  font-size: 60px;
+}
+
+.slider{
+  width: 100%;
+}
+
+#rcorners1 {
+    border-radius: 25px;
+    border: 2px solid #000000;
+    padding: 20px;
+    width: 200px;
+    height: 50px;
+}
+
+
+.dot {
+    height: 15px;
+    width: 15px;
+    background-size: 15px 15px;
+    background-image:  url('data:image/svg+xml;utf8,<svg aria-hidden="true" data-prefix="fas" data-icon="circle" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="svg-inline--fa fa-circle fa-w-16 fa-3x"><path fill="rgb(128,128,128)" d="M256 8C119 8 8 119 8 256s111 248 248 248 248-111 248-248S393 8 256 8z" class=""></path></svg>');
+}
+.dot2 {
+    position: absolute;
+    height: 15px;
+    width: 15px;
+    background-size: 15px 15px;
+    background-image:  url('data:image/svg+xml;utf8,<svg aria-hidden="true" data-prefix="fas" data-icon="circle" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="svg-inline--fa fa-circle fa-w-16 fa-3x"><path fill="rgb(255,0,0)" d="M256 8C119 8 8 119 8 256s111 248 248 248 248-111 248-248S393 8 256 8z" class=""></path></svg>');
+}
+
+.result{
+  border-radius: 50%;
+  max-width: 300px;
+}
